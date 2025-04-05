@@ -1,8 +1,72 @@
 {
-  "projectName": "בית-קפה-גמא-9772",
-  "businessName": "בית קפה גמא",
-  "created": "2025-04-05T19:02:52.182Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-05T19:03:54.815Z",
+  "status": {
+    "totalComponents": 10,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "ראשי עם כותרת ראשית וקריאה לפעולה"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "אודות בית הקפה והחזון שלו"
+    },
+    {
+      "name": "ProductsShowcase",
+      "type": "products",
+      "status": "pending",
+      "description": "הצגת המוצרים והמנות המובילות"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "פירוט השירותים המוצעים"
+    },
+    {
+      "name": "PortfolioGallery",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "גלריית תמונות של בית הקפה ומנות מיוחדות"
+    },
+    {
+      "name": "TestimonialsCarousel",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "קרוסלת המלצות מלקוחות"
+    },
+    {
+      "name": "BookingSystem",
+      "type": "booking",
+      "status": "pending",
+      "description": "מערכת הזמנת מקומות אונליין"
+    },
+    {
+      "name": "ContactForm",
+      "type": "contact",
+      "status": "pending",
+      "description": "טופס יצירת קשר"
+    },
+    {
+      "name": "LocationMap",
+      "type": "map",
+      "status": "pending",
+      "description": "מפה אינטראקטיבית עם מיקום בית הקפה"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "כותרת תחתונה עם מידע נוסף וקישורים"
+    }
+  ],
+  "repoName": "webis-site-byt-kph-gma-1743879772130"
 }
