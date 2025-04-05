@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-05T19:10:52.576Z",
+  "projectDir": "בית-קפה-גמא-9772",
   "status": {
     "totalComponents": 10,
-    "completedComponents": 9,
+    "completedComponents": 10,
     "failedComponents": 0,
-    "progress": 90
+    "progress": 100
   },
   "components": [
     {
@@ -64,9 +64,14 @@
     {
       "name": "Footer",
       "type": "footer",
-      "status": "pending",
+      "status": "completed",
       "description": "כותרת תחתונה עם מידע נוסף וקישורים"
     }
   ],
-  "repoName": "webis-site-byt-kph-gma-1743879772130"
+  "tokenUsage": {
+    "totalInputTokens": 12975,
+    "totalOutputTokens": 24926,
+    "totalTokens": 37901,
+    "requests": 10
+  }
 }
