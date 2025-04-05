@@ -11,6 +11,9 @@
 
   --hero-animation-duration: 0.8s;
   --hero-text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+
+  --font-hebrew: 'Heebo', 'Assistant', sans-serif;
+  --transition-smooth: 0.3s ease-in-out;
 }
 
 body {
