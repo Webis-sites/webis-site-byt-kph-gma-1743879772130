@@ -28,6 +28,8 @@
 
   --testimonial-animation-duration: 0.5s;
   --testimonial-card-height: 320px;
+
+  --border-radius: 8px;
 }
 
 body {
