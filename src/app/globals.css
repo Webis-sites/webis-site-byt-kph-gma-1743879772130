@@ -19,6 +19,8 @@
   --loader-size: 50px;
   --loader-color: #FF6B6B;
   --card-transition: 0.3s;
+
+  --card-animation-duration: 0.6s;
 }
 
 body {
