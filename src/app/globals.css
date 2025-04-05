@@ -33,6 +33,9 @@
 
   --form-animation-duration: 0.3s;
   --input-focus-scale: 1.01;
+
+  --map-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  --marker-bounce: bounce 1s infinite;
 }
 
 body {
