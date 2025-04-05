@@ -21,6 +21,10 @@
   --card-transition: 0.3s;
 
   --card-animation-duration: 0.6s;
+
+  --gallery-item-height: 240px;
+  --lightbox-bg: rgba(0, 0, 0, 0.9);
+  --transition-speed: 0.3s;
 }
 
 body {
