@@ -8,6 +8,7 @@ import ProductsShowcase from '../components/ProductsShowcase';
 import ServicesSection from '../components/ServicesSection';
 import PortfolioGallery from '../components/PortfolioGallery';
 import TestimonialsCarousel from '../components/TestimonialsCarousel';
+import BookingSystem from '../components/BookingSystem';
 
 export default function HomePage() {
   return (
@@ -25,6 +26,7 @@ export default function HomePage() {
     <ServicesSection />
     <PortfolioGallery />
     <TestimonialsCarousel />
+    <BookingSystem />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
