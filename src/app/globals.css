@@ -30,6 +30,9 @@
   --testimonial-card-height: 320px;
 
   --border-radius: 8px;
+
+  --form-animation-duration: 0.3s;
+  --input-focus-scale: 1.01;
 }
 
 body {
